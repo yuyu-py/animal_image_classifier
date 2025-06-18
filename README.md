@@ -1,0 +1,2 @@
+# animal_image_classifier
+TensorFlowを使用した動物画像分類CNN実装プロジェクト

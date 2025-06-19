@@ -1,0 +1,7 @@
+numpy==1.26.4
+tensorflow==2.16.2
+scikit-learn==1.7.0
+matplotlib==3.10.3
+pillow==11.2.1
+jupyter==1.1.1
+tensorflow-datasets==4.9.9

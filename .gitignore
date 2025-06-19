@@ -192,3 +192,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Virtual environment
+dl_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model training outputs
+*.h5
+*.pb
+
+# Dataset files
+image_datasets/
+tensorflow_datasets/
